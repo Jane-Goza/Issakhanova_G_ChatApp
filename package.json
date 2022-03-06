@@ -1,0 +1,27 @@
+{
+  "name": "issakhanova_g_chatapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "echo \"Deploy both pieces at once\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jane-Goza/Issakhanova_G_ChatApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jane-Goza/Issakhanova_G_ChatApp/issues"
+  },
+  "homepage": "https://github.com/Jane-Goza/Issakhanova_G_ChatApp#readme",
+  "dependencies": {
+    "node": "^17.5.0",
+    "node-sass": "^7.0.1",
+    "sass-loader": "^12.6.0",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
