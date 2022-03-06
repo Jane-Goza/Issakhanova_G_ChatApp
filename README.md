@@ -1,4 +1,4 @@
-# Issakhanova_G_ChatApp
+# ChatApp
 
 ## Project setup
 ```
